@@ -17,7 +17,8 @@
    "Time to water the plant!". 
    
    Sources:
-   SMS using IFTTT : https://circuitdigest.com/microcontroller-projects/sending-sms-using-esp8266
-   Ultrasonic Code : https://www.instructables.com/id/Pocket-Size-Ultrasonic-Measuring-Tool-With-ESP32/
-   DHT11 Code : https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/
+   
+   SMS using IFTTT :          https://circuitdigest.com/microcontroller-projects/sending-sms-using-esp8266
+   Ultrasonic Code :          https://www.instructables.com/id/Pocket-Size-Ultrasonic-Measuring-Tool-With-ESP32/
+   DHT11 Code :               https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/
    MQTT publish and subscribe : https://techtutorialsx.com/2017/04/24/esp32-publishing-messages-to-mqtt-topic/
