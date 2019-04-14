@@ -18,7 +18,7 @@
    
    Sources:
    
-   SMS using IFTTT :          https://circuitdigest.com/microcontroller-projects/sending-sms-using-esp8266<br/>  
+   SMS using IFTTT :          https://circuitdigest.com/microcontroller-projects/sending-sms-using-esp8266<br/>
    Ultrasonic Code :          https://www.instructables.com/id/Pocket-Size-Ultrasonic-Measuring-Tool-With-ESP32/<br/>
    DHT11 Code :               https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/<br/>
    MQTT publish and subscribe : https://techtutorialsx.com/2017/04/24/esp32-publishing-messages-to-mqtt-topic/<br/>
